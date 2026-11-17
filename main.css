@@ -1,0 +1,90 @@
+/* css woooow */
+body { background-color: rgb(197, 242, 227);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+p { line-height: normal;}
+
+
+a { color: rgb(142, 71, 230);
+    text-decoration: none;
+    
+    }
+
+ul a {font-family: Arial, Helvetica, sans-serif;}
+
+h1 {margin-bottom: 8px;}
+
+header {max-width: 1000px;
+    background-color: rgb(16, 56, 58);
+    margin:0 auto; 
+    padding: 10px 15px;
+    border-radius: 25px;
+    color: antiquewhite;}
+
+main {max-width: 1000px;
+    background-color: rgb(16, 56, 58);
+    margin:0 auto; 
+    padding: 30px;
+    border-radius: 25px;
+    color: antiquewhite;}
+
+footer {max-width: 1000px;
+    background-color: rgb(1, 15, 3);
+    margin:0 auto; 
+    padding: 30px;
+    border-radius: 25px;
+    color: antiquewhite;
+    text-align:center;
+    border-top-style:ridge}
+
+    
+.placeholder {
+    width: 80%;
+    height: 30px;
+    background-color: azure;
+    margin: 20px 0;
+    border-radius: 25px;
+    color: darkblue;
+    line-height: 25px;
+    padding: 50px;}
+
+.placeholder2 {
+    width: 80%;
+    height: 700px;
+    background-color: azure;
+    margin: 20px 0;
+    border-radius: 25px;
+    color: darkblue;
+    background-color: rgb(183, 124, 215);
+    line-height: 07px;
+    padding: 50px;}
+
+.placeholder3 {
+    width: 80%;
+    height: 500px;
+    margin: 20px 0;
+    border-radius: 25px;
+    color: darkblue;
+    line-height: 50px;
+    padding: 50px;}
+
+.placeholder3 img {width: 80%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 25px;}
+
+nav ul li {
+    list-style: none;
+    text-transform: uppercase;
+
+}
+/* block, inline, inline-block (display) */
+
+
+/* visibility, opacity for cool effects: links not visible but clickable */
+    
+
+
+/* when 2 values are written the first value is for top-bottom and the second for left and right. ->see margin: 0 auto */
